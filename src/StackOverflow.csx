@@ -1,1 +1,1 @@
-var@_=>_;record@var;_
+int@_=>_;_
