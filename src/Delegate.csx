@@ -1,1 +1,1 @@
-_@var;delegate@_@_(_@_);((_)(_=>_))(var)
+_@var;delegate@_@_(_@_);((_)(_=>_))(var)(var)
