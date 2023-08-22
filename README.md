@@ -12,5 +12,6 @@ The main purpose of this code is to demonstrate quirks of C# syntax and semantic
 | [Var.cs](./src/Var.cs) | Compiles | Uses three different naming scopes with the identifier `var`. |
 | [Delegate.csx](./src/Delegate.csx) | Throws `NullReferenceException` | Confusingly named delegate invoked with a null instance of itself as an argument. |
 | [StackOverflow.csx](./src/StackOverflow.csx) | Stack overflow | Abuses a recursive property in script mode. |
+| [Attribute.cs](./src/Attribute.cs) | Compiles | Abuses an invalid attribute target so the compiler ignores the entire attribute. |
 
 <!-- uwu -->
